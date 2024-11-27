@@ -66,7 +66,7 @@
       <AssemblyReference>System.Reflection.Metadata</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="582.4000000000001,1219.2" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="876.0000000000001,1219.2" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -94,7 +94,7 @@
         <uasc:BuildCollection.NextItems>
           <scg:List x:TypeArguments="InArgument(x:String)" Capacity="4">
             <InArgument x:TypeArguments="x:String">Chicago</InArgument>
-            <InArgument x:TypeArguments="x:String">Seattle</InArgument>
+            <InArgument x:TypeArguments="x:String">New York</InArgument>
             <InArgument x:TypeArguments="x:String">San Francisco</InArgument>
           </scg:List>
         </uasc:BuildCollection.NextItems>
